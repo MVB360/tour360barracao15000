@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" start="node1" hassounds="0" apprev="20986">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="28.7175">
+      <start fov="138.736" pan="66.8927" projection="4" tilt="-9.95052"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:51" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80961560" author="" heading="28.7175" copyright="" source="" nodeid="node1" info="" longitude="-50.36872846" customnodeid="" title="INICIO TOUR "/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="19.87" pan="8.11813" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="11.8488" pan="110.511" description="" target="$fwd" url="{node17}" tilt="0" title="ALMOXARIFADO 2" skinid="ht_node" id="Point02"/>
+      <hotspot distance="13.5792" pan="129.913" description="" target="$fwd" url="{node18}" tilt="0" title="HALL ALMOXARIFADO" skinid="ht_node" id="Point03"/>
+      <hotspot distance="16.4383" pan="82.8536" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+    </hotspots>
+    <media>
+      <image rotx="9.281" handcursor="0" fov="5.703" pan="54.480" popoutscaling="100" stretch="0.828" height="100" roty="-6.701" clickmode="1" hidepinned="0" tilt="4.314" width="100" id="Element01" rotz="0.940" popbackmode="0">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-153.688">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:52" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80944833" author="" heading="-153.688" copyright="" source="" nodeid="node2" info="" longitude="-50.36865738" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="19.87" pan="5.71266" description="" target="$fwd" url="{node1}" tilt="0" title="INICIO TOUR " skinid="ht_node" id="Point01"/>
+      <hotspot distance="38.7301" pan="-172.583" description="" target="$fwd" url="{node7}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="34.2336" pan="-88.2755" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot distance="22.2047" pan="-39.8643" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-155.188">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:52" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80932023" author="" heading="-155.188" copyright="" source="" nodeid="node3" info="" longitude="-50.36897389" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="28.3681" pan="-88.1798" description="" target="$fwd" url="{node4}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="37.8971" pan="-174.094" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="34.2336" pan="-269.776" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot distance="25.6095" pan="-310.203" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-159.388">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:53" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80922058" author="" heading="-159.388" copyright="" source="" nodeid="node4" info="" longitude="-50.36923941" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="37.2359" pan="-180.133" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="28.3681" pan="-272.38" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-157.828">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:53" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80890742" author="" heading="-157.828" copyright="" source="" nodeid="node5" info="" longitude="-50.36910531" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="34.7132" pan="-179.946" description="" target="$fwd" url="{node10}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="37.2359" pan="1.42736" description="" target="$fwd" url="{node4}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="27.1346" pan="-269.566" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-147.025">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:54" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80899780" author="" heading="-147.025" copyright="" source="" nodeid="node6" info="" longitude="-50.36884904" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="37.8971" pan="14.069" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="34.1891" pan="-166.617" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="34.1536" pan="-260.223" description="" target="$fwd" url="{node7}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot distance="27.1346" pan="-78.7633" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="202.113">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:54" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80911879" author="" heading="202.113" copyright="" source="" nodeid="node7" info="" longitude="-50.36852986" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="38.7301" pan="363.218" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="36.1291" pan="181.392" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="34.1536" pan="268.915" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-150.163">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:55" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80881489" author="" heading="-150.163" copyright="" source="" nodeid="node8" info="" longitude="-50.36839989" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="36.1291" pan="9.11637" description="" target="$fwd" url="{node7}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="42.7928" pan="-146.645" description="" target="$fwd" url="{node12}" tilt="0" title="ESCRITÓRIO B FUNDOS " skinid="ht_node" id="Point03"/>
+      <hotspot distance="46.7171" pan="-138.6" description="" target="$fwd" url="{node11}" tilt="0" title="BANHEIROS FUNCIONARIOS" skinid="ht_node" id="Point04"/>
+      <hotspot distance="34.7987" pan="-80.1092" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point05"/>
+      <hotspot distance="24.7265" pan="-172.422" description="" target="$fwd" url="{node15}" tilt="0" title="LAJE SUPERIOR" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-156.706">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:56" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80870813" author="" heading="-156.706" copyright="" source="" nodeid="node9" info="" longitude="-50.36873248" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="34.7987" pan="-266.652" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="25.6296" pan="-89.6679" description="" target="$fwd" url="{node10}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="34.1891" pan="3.70254" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot distance="41.16" pan="-191.263" description="" target="$fwd" url="{node11}" tilt="0" title="BANHEIROS FUNCIONARIOS" skinid="ht_node" id="Point04"/>
+      <hotspot distance="43.0847" pan="-200.995" description="" target="$fwd" url="{node12}" tilt="0" title="ESCRITÓRIO B FUNDOS " skinid="ht_node" id="Point05"/>
+      <hotspot distance="43.4947" pan="-232.039" description="" target="$fwd" url="{node15}" tilt="0" title="LAJE SUPERIOR" skinid="ht_node" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-155.548">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:56" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80861821" author="" heading="-155.548" copyright="" source="" nodeid="node10" info="" longitude="-50.36897242" customnodeid="" title="barracão 15 mil m²"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="25.6296" pan="-268.51" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="34.7132" pan="2.33392" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="160.344">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:57" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80840328" author="" heading="160.344" copyright="" source="" nodeid="node11" info="" longitude="-50.36849510" customnodeid="" title="BANHEIROS FUNCIONARIOS"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="46.7171" pan="-8.09304" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="41.16" pan="305.787" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="293.385">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:58" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80843077" author="" heading="293.385" copyright="" source="" nodeid="node12" info="" longitude="-50.36842659" customnodeid="" title="ESCRITÓRIO B FUNDOS "/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="11.024" pan="182.341" description="" target="$fwd" url="{node13}" tilt="0" title="ESCRITÓRIO B FUNDOS 2" skinid="ht_node" id="Point02"/>
+      <hotspot distance="42.7928" pan="116.903" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
+      <hotspot distance="43.0847" pan="429.096" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-69.6479">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:58" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80846637" author="" heading="-69.6479" copyright="" source="" nodeid="node13" info="" longitude="-50.36832198" customnodeid="" title="ESCRITÓRIO B FUNDOS 2"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="11.024" pan="-0.691855" description="" target="$fwd" url="{node12}" tilt="0" title="ESCRITÓRIO B FUNDOS " skinid="ht_node" id="Point01"/>
+      <hotspot distance="12.7135" pan="-182.222" description="" target="$fwd" url="{node14}" tilt="0" title="ESCRITÓRIO B FUNDOS 3" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="20.2249">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:58" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80851026" author="" heading="20.2249" copyright="" source="" nodeid="node14" info="" longitude="-50.36820262" customnodeid="" title="ESCRITÓRIO B FUNDOS 3"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="12.7135" pan="87.6512" description="" target="$fwd" url="{node13}" tilt="0" title="ESCRITÓRIO B FUNDOS 2" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="37.2436">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:00" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80860909" author="" heading="37.2436" copyright="" source="" nodeid="node15" info="" longitude="-50.36830466" customnodeid="" title="LAJE SUPERIOR"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="14.1634" pan="-74.7345" description="" target="$fwd" url="{node16}" tilt="0" title="BANHEIRO LAJE SUPERIOR" skinid="ht_node" id="Point01"/>
+      <hotspot distance="24.7265" pan="194.985" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot distance="43.4947" pan="141.91" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-71.4438">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:00" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80865676" author="" heading="-71.4438" copyright="" source="" nodeid="node16" info="" longitude="-50.36817112" customnodeid="" title="BANHEIRO LAJE SUPERIOR"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="14.1634" pan="-3.42183" description="" target="$fwd" url="{node15}" tilt="0" title="LAJE SUPERIOR" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="14.4315">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:03" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80960039" author="" heading="14.4315" copyright="" source="" nodeid="node17" info="" longitude="-50.36884770" customnodeid="" title="ALMOXARIFADO 2"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="11.8488" pan="-83.7748" description="" target="$fwd" url="{node1}" tilt="0" title="INICIO TOUR " skinid="ht_node" id="Point01"/>
+      <hotspot distance="4.61169" pan="174.22" description="" target="$fwd" url="{node18}" tilt="0" title="HALL ALMOXARIFADO" skinid="ht_node" id="Point02"/>
+      <hotspot distance="3.74249" pan="-8.17964" description="" target="$fwd" url="{node20}" tilt="0" title="ALMOXARIFADO 1" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:04" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80963931" author="" heading="0" copyright="" source="" nodeid="node18" info="" longitude="-50.36886390" customnodeid="" title="HALL ALMOXARIFADO"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="4.61169" pan="-20.2119" description="" target="$fwd" url="{node17}" tilt="0" title="ALMOXARIFADO 2" skinid="ht_node" id="Point01"/>
+      <hotspot distance="2.94936" pan="153.416" description="" target="$fwd" url="{node19}" tilt="0" title="BANHEIRO ALMOXARIFADO " skinid="ht_node" id="Point02"/>
+      <hotspot distance="13.5792" pan="-78.8048" description="" target="$fwd" url="{node1}" tilt="0" title="INICIO TOUR " skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="3.93243">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:04" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80966303" author="" heading="3.93243" copyright="" source="" nodeid="node19" info="" longitude="-50.36887732" customnodeid="" title="BANHEIRO ALMOXARIFADO "/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="2.94936" pan="-22.652" description="" target="$fwd" url="{node18}" tilt="0" title="HALL ALMOXARIFADO" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:04" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80956932" author="" heading="0" copyright="" source="" nodeid="node20" info="" longitude="-50.36883307" customnodeid="" title="ALMOXARIFADO 1"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="3.74249" pan="157.389" description="" target="$fwd" url="{node17}" tilt="0" title="ALMOXARIFADO 2" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="27.2095">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:05" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80952899" author="" heading="27.2095" copyright="" source="" nodeid="node21" info="" longitude="-50.36886391" customnodeid="" title="ESCADA ESCRITORIO A"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="16.4383" pan="-98.6544" description="" target="$fwd" url="{node1}" tilt="0" title="INICIO TOUR " skinid="ht_node" id="Point01"/>
+      <hotspot distance="3.96855" pan="185.768" description="" target="$fwd" url="{node22}" tilt="0" title="ESCRITÓRIO A 1" skinid="ht_node" id="Point02"/>
+      <hotspot distance="22.2047" pan="-38.9669" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot distance="25.6095" pan="52.1941" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-28.7687">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:05" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80956221" author="" heading="-28.7687" copyright="" source="" nodeid="node22" info="" longitude="-50.36887866" customnodeid="" title="ESCRITÓRIO A 1"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="3.96855" pan="-50.21" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point01"/>
+      <hotspot distance="4.79835" pan="127.03" description="" target="$fwd" url="{node23}" tilt="0" title="ESCRITORIO A 2" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-123.366">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 11:05" comment="" description="" tags="fotos360barraco15milmetros" latitude="-27.80960157" author="" heading="-123.366" copyright="" source="" nodeid="node23" info="" longitude="-50.36889866" customnodeid="" title="ESCRITORIO A 2"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="4.79835" pan="-147.567" description="" target="$fwd" url="{node22}" tilt="0" title="ESCRITÓRIO A 1" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" tags="" author="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
