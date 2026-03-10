@@ -21,6 +21,7 @@
       <hotspot distance="11.8488" pan="110.511" description="" target="$fwd" url="{node17}" tilt="0" title="ALMOXARIFADO 2" skinid="ht_node" id="Point02"/>
       <hotspot distance="13.5792" pan="129.913" description="" target="$fwd" url="{node18}" tilt="0" title="HALL ALMOXARIFADO" skinid="ht_node" id="Point03"/>
       <hotspot distance="16.4383" pan="82.8536" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+      <hotspot fov="5" pan="-295.64" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-13.26" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point05" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media>
       <image rotx="9.281" handcursor="0" fov="5.703" pan="54.480" popoutscaling="100" stretch="0.828" height="100" roty="-6.701" clickmode="1" hidepinned="0" tilt="4.314" width="100" id="Element01" rotz="0.940" popbackmode="0">
@@ -52,6 +53,7 @@
       <hotspot distance="38.7301" pan="-172.583" description="" target="$fwd" url="{node7}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
       <hotspot distance="34.2336" pan="-88.2755" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
       <hotspot distance="22.2047" pan="-39.8643" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+      <hotspot fov="5" pan="-188.49" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-6.42" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point05" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -79,6 +81,7 @@
       <hotspot distance="37.8971" pan="-174.094" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
       <hotspot distance="34.2336" pan="-269.776" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
       <hotspot distance="25.6095" pan="-310.203" description="" target="$fwd" url="{node21}" tilt="0" title="ESCADA ESCRITORIO A" skinid="ht_node" id="Point04"/>
+      <hotspot fov="5" pan="-183.42" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-5.48" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point05" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -104,6 +107,7 @@
       <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot distance="37.2359" pan="-180.133" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
       <hotspot distance="28.3681" pan="-272.38" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot fov="5" pan="-192.07" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-4.93" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point03" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -130,6 +134,7 @@
       <hotspot distance="34.7132" pan="-179.946" description="" target="$fwd" url="{node10}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
       <hotspot distance="37.2359" pan="1.42736" description="" target="$fwd" url="{node4}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
       <hotspot distance="27.1346" pan="-269.566" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot fov="5" pan="-190.15" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-4.19" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point04" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -157,6 +162,7 @@
       <hotspot distance="34.1891" pan="-166.617" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
       <hotspot distance="34.1536" pan="-260.223" description="" target="$fwd" url="{node7}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
       <hotspot distance="27.1346" pan="-78.7633" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point04"/>
+      <hotspot fov="5" pan="-354.43" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-3.58" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point05" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -183,6 +189,7 @@
       <hotspot distance="38.7301" pan="363.218" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
       <hotspot distance="36.1291" pan="181.392" description="" target="$fwd" url="{node8}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
       <hotspot distance="34.1536" pan="268.915" description="" target="$fwd" url="{node6}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
+      <hotspot fov="5" pan="-4.71" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-5.21" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point04" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -211,6 +218,7 @@
       <hotspot distance="46.7171" pan="-138.6" description="" target="$fwd" url="{node11}" tilt="0" title="BANHEIROS FUNCIONARIOS" skinid="ht_node" id="Point04"/>
       <hotspot distance="34.7987" pan="-80.1092" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point05"/>
       <hotspot distance="24.7265" pan="-172.422" description="" target="$fwd" url="{node15}" tilt="0" title="LAJE SUPERIOR" skinid="ht_node" id="Point02"/>
+      <hotspot fov="5" pan="-1.98" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-4.03" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point06" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -240,6 +248,7 @@
       <hotspot distance="41.16" pan="-191.263" description="" target="$fwd" url="{node11}" tilt="0" title="BANHEIROS FUNCIONARIOS" skinid="ht_node" id="Point04"/>
       <hotspot distance="43.0847" pan="-200.995" description="" target="$fwd" url="{node12}" tilt="0" title="ESCRITÓRIO B FUNDOS " skinid="ht_node" id="Point05"/>
       <hotspot distance="43.4947" pan="-232.039" description="" target="$fwd" url="{node15}" tilt="0" title="LAJE SUPERIOR" skinid="ht_node" id="Point06"/>
+      <hotspot fov="5" pan="-4.03" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-5.72" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point07" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -265,6 +274,7 @@
       <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot distance="25.6296" pan="-268.51" description="" target="$fwd" url="{node9}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point01"/>
       <hotspot distance="34.7132" pan="2.33392" description="" target="$fwd" url="{node5}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point02"/>
+      <hotspot fov="5" pan="-3.18" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-5.05" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point03" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
@@ -542,6 +552,7 @@
       <hotspot distance="3.96855" pan="185.768" description="" target="$fwd" url="{node22}" tilt="0" title="ESCRITÓRIO A 1" skinid="ht_node" id="Point02"/>
       <hotspot distance="22.2047" pan="-38.9669" description="" target="$fwd" url="{node2}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point03"/>
       <hotspot distance="25.6095" pan="52.1941" description="" target="$fwd" url="{node3}" tilt="0" title="barracão 15 mil m²" skinid="ht_node" id="Point04"/>
+      <hotspot fov="5" pan="-49.79" description="" use3D="1" distance3D="561.142" customimageheight="49" target="_self" url="https://mvb360.github.io/barracoes_ipa_lages/" tilt="-11.94" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://mvb360.github.io/barracoes_ipa_lages/&quot;>TOUR_INICIAL&lt;/a>&lt;/p>&#xa;&lt;div>" skinid="ht_url" id="Point05" customimage="media/BOT�O PARA VOLTAR AO TOU PRINCIPAL-1.jpg" customimagewidth="49"/>
     </hotspots>
     <media/>
     <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
